@@ -7,7 +7,7 @@ Este projeto consiste em uma planilha em Excel com o tema de **simulação e con
 Permite que o usuário informe seu salário e visualize uma **sugestão de investimento mensal** baseada nesse valor.
 
 <p align="center">
-  <img src="imagens/configuracoes.png" alt="Tabela de Configurações" width="600">
+  <img src="imagens/configuracoes.PNG" alt="Tabela de Configurações" width="600">
 </p>
 
 
