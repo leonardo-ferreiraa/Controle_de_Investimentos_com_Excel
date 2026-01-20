@@ -18,14 +18,14 @@ Exibe o **patrimônio acumulado** e o **dividendo mensal estimado**, considerand
 - Valor investido mensalmente  
 
 <p align="center">
-  <img src="imagens/investimento.PNG" alt="Tabela de Configurações" width="600">
+  <img src="imagens/investimento.PNG" alt="Tabela de investimentos" width="600">
 </p>
 
 ## Tabela Cenários 
 Apresenta múltiplos **cenários de investimento de 2 a 30 anos**, em que permite comparar a evolução do patrimônio e dos dividendos ao longo do tempo.
 
 <p align="center">
-  <img src="imagens/cenario.PNG" alt="Tabela de Configurações" width="600">
+  <img src="imagens/cenario.PNG" alt="Tabela de cenarios" width="600">
 </p>
 
 ## Tabela de tipo de investimento e perfil
